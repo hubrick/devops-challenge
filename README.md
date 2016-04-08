@@ -17,9 +17,10 @@ $ kitchen verify
 
 ### Bonus points
 
-* Use knife-ec2 instead of vagrant driver to provision an AWS instance.
+* Use kitchen-ec2 instead of vagrant driver to provision an AWS instance.
 * Integrate travis-ci in your solution's repository to run the tests automatically.
 
 [Chef]: https://www.chef.io/
 [Berkshelf]: http://berkshelf.com/
+[Test Kitchen]: http://kitchen.ci/
 [Serverspec]: http://serverspec.org/
